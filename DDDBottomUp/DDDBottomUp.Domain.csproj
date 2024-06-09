@@ -44,6 +44,7 @@
     <Compile Include="Entities\FullName.cs" />
     <Compile Include="Entities\Money.cs" />
     <Compile Include="Entities\User.cs" />
+    <Compile Include="Repositories\InMemoryUserRepository.cs" />
     <Compile Include="Repositories\IUserRepository.cs" />
     <Compile Include="services\UserService.cs" />
     <Compile Include="ValueObjects\UserName.cs" />
